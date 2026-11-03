@@ -1,0 +1,7 @@
+Hello! My name is Manas Rajkumar.
+
+About me:
+I'm a second-year CS major at UC Santa Cruz. I'm especially interested in AI Ethics (Safety, Governance),
+Data Science, and Statistics. In my free time, I like to watch sports (football, soccer, basketball) and talk about politics.
+
+Linkedin: https://www.linkedin.com/in/manasxr/
