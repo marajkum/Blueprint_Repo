@@ -15,8 +15,7 @@ function About(){
                 <p className="text-gray-400 leading-relaxed">
                     I'm a student at UC Santa Cruz interested
                     in software engineering, technology,
-                    and meaningful applications. In my freetime
-                    I enjoy playing violin, and hitting the gym. 
+                    and meaningful applications.
                 </p>
             </div>
             <img

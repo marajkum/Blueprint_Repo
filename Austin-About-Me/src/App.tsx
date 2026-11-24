@@ -1,6 +1,10 @@
 import { useState } from 'react'
 import Navbar from './components/Navbar'
 import About from './components/About'
+import Interests from './components/Interests'
+import Skills from './components/Skills'
+import Projects from './components/Projects'
+import Footer from './components/Footer'
 import './App.css'
 
 function App() {
@@ -10,7 +14,11 @@ function App() {
       <Navbar />
       <main>
         <About />
+        <Interests />
+        <Skills />
+        <Projects />
       </main>
+      <Footer />
     </div>
   )
 }
